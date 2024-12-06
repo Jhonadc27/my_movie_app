@@ -1,0 +1,17 @@
+{
+  "name": "my-movie-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+     "sweetalert2": "^11.7.3" 
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
